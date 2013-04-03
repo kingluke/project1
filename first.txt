@@ -1,6 +1,6 @@
-This is the first line for my GIT training.
+This IS  the first line for my GIT training.
 line1
 
-This is line number two
+This is another line number two
 
-This is the awesome line of text, yeehaaaa!
+This is the awesome line of text, !
